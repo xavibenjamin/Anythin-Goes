@@ -1,0 +1,14 @@
+/.DS_Store
+/index.php
+/uploads/
+/upgrade/
+.DS_Store
+
+/.sass-cache
+
+
+/themes/ag_v4/.sass-cache/
+/themes/ag_v4/codekit-config.json
+
+anythingo_es-site.sublime-project
+anythingo_es-site.sublime-workspace
