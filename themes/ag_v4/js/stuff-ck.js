@@ -1,0 +1,1 @@
+jQuery(function(e){e("a.open-form").on("click",function(){e("body").toggleClass("dialogIsOpen")})});
