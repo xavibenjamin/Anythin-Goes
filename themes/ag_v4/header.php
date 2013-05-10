@@ -26,6 +26,6 @@
 
 <header role="banner">
   <div class="contain">
-    <a href="/" title="Homepage" class="logo">Anythin&rsquo; Goes</a>
+    <a href="/" title="Homepage" class="logo"><img src="<?php bloginfo( 'template_url');?>/img/AG_logo.svg" alt="Anythin' Goes"></a>
   </div>
 </header>

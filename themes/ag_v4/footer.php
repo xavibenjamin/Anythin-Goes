@@ -7,6 +7,8 @@
 
 </div> <!-- end .wrapper -->
 
+<div class="overlay"></div>
+
 <div class="modal">
   <div class="contain">
   <h1>Tell Me About Your Project</h1>
@@ -14,8 +16,9 @@
   <p>If you’re uncertain about any aspect, I’d be happy to help you think it through. Please don’t hesitate to call.</p>
 
   <div class="vcard">
-    <p><strong>Phone:</strong> <span class="tel">760.310.7383</span></p>
+    <p><strong>Phone:</strong> <span class="tel">760.659.0093</span></p>
   </div>
+  <p><strong>Email:</strong> <a href="mailto:info@anythingo.es">info@anythingo.es</a></p>
 
   <?php gravity_form(1, false, false, false, '', false); ?>
   </div><!-- end .contain -->

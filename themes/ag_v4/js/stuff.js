@@ -8,4 +8,15 @@ jQuery(function($) {
 
   });
 
+  $('body').on('keyup', function(e) {
+      if (e.keyCode === 27) {
+          $('body').removeClass('dialogIsOpen');
+          return false;
+      }
+  });
+
+   $('.overlay').on('click', function() {
+      $('body').removeClass('dialogIsOpen');
+    });
+
 });
