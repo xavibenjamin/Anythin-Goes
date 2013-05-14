@@ -39,6 +39,7 @@ a {
 
 .wrapper {
   margin: 0 0 20px;
+  position: relative;
 }
 
 header {
@@ -102,9 +103,12 @@ header {
   border: 1px solid rgba(black, .1);
   border-radius: 3px;
 
-  position: relative;
+  position: absolute;
   max-width: 700px;
-  margin: -31% auto 2% auto;
+  top: 50px;
+  left: 30px;
+  right: 30px;
+  margin: 0 auto;
   padding: 30px;
 
   /* Embiggen */

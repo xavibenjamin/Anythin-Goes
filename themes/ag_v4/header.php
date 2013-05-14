@@ -4,6 +4,7 @@
   <title><?php is_home() ? bloginfo('description') : wp_title(''); ?></title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
+  <link rel="shortcut icon" href="/favicon.ico">
   
   <!-- My styles -->
   <link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/css/global.css"/>
